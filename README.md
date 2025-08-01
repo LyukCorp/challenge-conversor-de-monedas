@@ -16,4 +16,4 @@ Peso Colombiano (COP) → Dólar: Convierte pesos colombianos a dólares.</p>
 
 ### _**Menu**_
 * _**Selecciones** Debe ingresa el numero correspondiente de la conversion que desea realizar_
-![Selecciones principales](https://drive.google.com/u/1/drive-viewer/AKGpihbdB0PDEG-hLmXwKK2CsMSHxNZbh3_sSBeZ9xh3WTfidIi2mQUcD22xCBJyLM4zZxi1Do33ItSYidLi1m3n3VgfTa2f4GSS91c=s1600-rw-v1 "Principal")
+![Selecciones principales](https://i.postimg.cc/y84ZTdcs/Captura-de-pantalla-2025-07-31-231948.png "Principal")
